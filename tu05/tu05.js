@@ -2,7 +2,7 @@ function test() {
   console.log('test');
   // return null;
   // return NaN;
-  // return 1;
+  return 1;
 }
 
 const result = test();
