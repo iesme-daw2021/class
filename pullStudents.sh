@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PATH_STUDENTS=/home/profe/dev/src/dwec2021/students
+PATH_STUDENTS=/home/xavi/dev/alumnes
 
 function pullOne() {
     PATH_STUDENT=$1
