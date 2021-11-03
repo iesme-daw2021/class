@@ -1,5 +1,7 @@
 const array = [3, 5, 1];
 
+console.log(Math.max(array));
+
 // Solution 1
 const p1 = array[0];
 const p2 = array[1];
