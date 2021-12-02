@@ -6,3 +6,4 @@ function getName(x) {
 
   return nombre;
 }
+document.body.on;
